@@ -1,0 +1,48 @@
+
+effects1.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+enemy-death-1
+  rotate: false
+  xy: 2, 2
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+enemy-death-2
+  rotate: false
+  xy: 44, 2
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+enemy-death-3
+  rotate: false
+  xy: 86, 2
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+enemy-death-4
+  rotate: false
+  xy: 128, 2
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+enemy-death-5
+  rotate: false
+  xy: 170, 2
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+enemy-death-6
+  rotate: false
+  xy: 212, 2
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+keys.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+key1
+  rotate: false
+  xy: 2, 2
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+key2
+  rotate: false
+  xy: 260, 260
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+lock
+  rotate: false
+  xy: 2, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

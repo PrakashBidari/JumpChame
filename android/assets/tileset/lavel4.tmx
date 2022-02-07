@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.3" orientation="orthogonal" renderorder="right-down" width="100" height="10" tilewidth="69" tileheight="69" infinite="0" nextlayerid="18" nextobjectid="382">
+ <tileset firstgid="1" source="tiles_spritesheet.tsx"/>
+ <layer id="1" name="graphics" width="100" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzzZGBg8BzFgwqPgsEBRuNj8AA9htH4GCzAEYitGBDx0YqERwF9QR0Qp0IxtvggJW5I0YPLDkIYnxnEuG8ogYGID0oAKe6jRX4npi1ESXuJFvGBSy8944NW5e9Qjg9yzCPVPnLVkAvoFR+jePBgALX3fAw=
+  </data>
+ </layer>
+ <objectgroup id="2" name="ground">
+  <object id="312" x="0.5" y="621" width="6898.67" height="69"/>
+  <object id="313" x="6831.39" y="68.5" width="65.4697" height="552.5"/>
+  <object id="314" x="0" y="-0.5" width="6898.83" height="69.5"/>
+  <object id="315" x="-0.25" y="69" width="69.5" height="551.75"/>
+  <object id="327" x="5796" y="413.333" width="344" height="208"/>
+  <object id="328" x="5174" y="414" width="345" height="209"/>
+  <object id="329" x="3588" y="551" width="276" height="70"/>
+  <object id="330" x="3657" y="482" width="207" height="68"/>
+  <object id="331" x="3725.5" y="413.5" width="138" height="68"/>
+  <object id="332" x="3794.5" y="344.5" width="69" height="69"/>
+  <object id="333" x="2966.67" y="344" width="276" height="276.667"/>
+  <object id="334" x="1794" y="344" width="965" height="69"/>
+  <object id="335" x="1794" y="414" width="137" height="138"/>
+  <object id="336" x="1034" y="344" width="346" height="276"/>
+  <object id="337" x="1380" y="482" width="137.5" height="139"/>
+  <object id="338" x="1518" y="551.333" width="344.667" height="70"/>
+  <object id="339" x="70.6667" y="342.667" width="414.667" height="277.333"/>
+  <object id="340" x="69.3333" y="275.333" width="206.667" height="67.3333"/>
+  <object id="344" x="6623.33" y="274.667" width="207.333" height="34.6667"/>
+ </objectgroup>
+ <objectgroup id="16" name="player">
+  <object id="341" x="170" y="182"/>
+ </objectgroup>
+ <objectgroup id="4" name="enemyBlocker">
+  <object id="325" x="6826" y="610"/>
+  <object id="326" x="6144" y="610"/>
+ </objectgroup>
+ <objectgroup id="3" name="enemy">
+  <object id="324" x="6554" y="546">
+   <properties>
+    <property name="opposum" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="371" x="759" y="69">
+   <properties>
+    <property name="rocket" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="379" x="1105.33" y="70.6667">
+   <properties>
+    <property name="rocket" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="380" x="1382.67" y="70.6667">
+   <properties>
+    <property name="rocket" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="381" x="1658.67" y="72">
+   <properties>
+    <property name="rocket" type="int" value="0"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="10" name="saw"/>
+ <objectgroup id="9" name="object">
+  <object id="345" x="6787.33" y="220.667" width="8.66667" height="54">
+   <properties>
+    <property name="maingate" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="369" x="485.333" y="482.667" width="550.667" height="137.333">
+   <properties>
+    <property name="water" type="int" value="0"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="15" name="items"/>
+ <objectgroup id="12" name="platform">
+  <object id="318" x="4142" y="370"/>
+  <object id="319" x="4414" y="374"/>
+  <object id="320" x="4688" y="374"/>
+  <object id="321" x="4968" y="368"/>
+  <object id="323" x="6514" y="412">
+   <properties>
+    <property name="upDown1" type="int" value="0"/>
+   </properties>
+  </object>
+  <object id="370" x="758" y="344"/>
+ </objectgroup>
+</map>

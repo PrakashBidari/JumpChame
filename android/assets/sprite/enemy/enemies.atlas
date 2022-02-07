@@ -1,0 +1,230 @@
+
+enemies.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blockerBody
+  rotate: false
+  xy: 70, 15
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+blockerMad
+  rotate: false
+  xy: 123, 18
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+blockerSad
+  rotate: false
+  xy: 179, 65
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+eagle-attack-1
+  rotate: false
+  xy: 176, 22
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+eagle-attack-2
+  rotate: false
+  xy: 232, 84
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+eagle-attack-3
+  rotate: false
+  xy: 274, 84
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+eagle-attack-4
+  rotate: false
+  xy: 285, 41
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+fishDead
+  rotate: false
+  xy: 2, 24
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+fishSwim1
+  rotate: false
+  xy: 231, 172
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+fishSwim2
+  rotate: false
+  xy: 231, 127
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1
+flyDead
+  rotate: false
+  xy: 102, 71
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+flyFly1
+  rotate: false
+  xy: 308, 218
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+flyFly2
+  rotate: false
+  xy: 102, 106
+  size: 75, 31
+  orig: 75, 31
+  offset: 0, 0
+  index: -1
+opossum-1
+  rotate: false
+  xy: 474, 193
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+opossum-2
+  rotate: false
+  xy: 474, 163
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+opossum-3
+  rotate: false
+  xy: 308, 188
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+opossum-4
+  rotate: false
+  xy: 299, 158
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+opossum-5
+  rotate: false
+  xy: 295, 128
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+opossum-6
+  rotate: false
+  xy: 316, 98
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+pokerMad
+  rotate: false
+  xy: 2, 68
+  size: 48, 146
+  orig: 48, 146
+  offset: 0, 0
+  index: -1
+pokerSad
+  rotate: false
+  xy: 52, 68
+  size: 48, 146
+  orig: 48, 146
+  offset: 0, 0
+  index: -1
+rocket
+  rotate: false
+  xy: 179, 118
+  size: 50, 96
+  orig: 50, 96
+  offset: 0, 0
+  index: -1
+rocketLuncher
+  rotate: false
+  xy: 218, 2
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+saw
+  rotate: false
+  xy: 2, 216
+  size: 304, 38
+  orig: 304, 38
+  offset: 0, 0
+  index: -1
+slimeDead
+  rotate: false
+  xy: 2, 10
+  size: 59, 12
+  orig: 59, 12
+  offset: 0, 0
+  index: -1
+slimeWalk1
+  rotate: false
+  xy: 218, 26
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+slimeWalk2
+  rotate: false
+  xy: 232, 56
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+snailShell
+  rotate: false
+  xy: 382, 191
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+snailShell_upsidedown
+  rotate: false
+  xy: 428, 191
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+snailWalk1
+  rotate: false
+  xy: 441, 223
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+snailWalk2
+  rotate: false
+  xy: 382, 223
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+spike
+  rotate: false
+  xy: 102, 139
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+item.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+box
+  rotate: false
+  xy: 2, 32
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+boxAlt
+  rotate: false
+  xy: 74, 32
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+gem-1
+  rotate: false
+  xy: 2, 17
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+gem-2
+  rotate: false
+  xy: 212, 89
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+gem-3
+  rotate: false
+  xy: 2, 2
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+gem-4
+  rotate: false
+  xy: 19, 17
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+gem-5
+  rotate: false
+  xy: 212, 74
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+pistol
+  rotate: false
+  xy: 146, 38
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

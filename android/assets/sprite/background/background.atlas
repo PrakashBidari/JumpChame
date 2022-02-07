@@ -1,0 +1,61 @@
+
+background.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 644, 875
+  size: 137, 89
+  orig: 137, 89
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 644, 784
+  size: 137, 89
+  orig: 137, 89
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 783, 875
+  size: 137, 89
+  orig: 137, 89
+  offset: 0, 0
+  index: -1
+35
+  rotate: false
+  xy: 644, 693
+  size: 137, 89
+  orig: 137, 89
+  offset: 0, 0
+  index: -1
+ocean
+  rotate: false
+  xy: 2, 484
+  size: 640, 480
+  orig: 640, 480
+  offset: 0, 0
+  index: -1
+sky
+  rotate: false
+  xy: 2, 2
+  size: 640, 480
+  orig: 640, 480
+  offset: 0, 0
+  index: -1
+
+background2.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+back
+  rotate: false
+  xy: 2, 2
+  size: 384, 240
+  orig: 384, 240
+  offset: 0, 0
+  index: -1
